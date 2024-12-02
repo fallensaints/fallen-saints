@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fallen Saints</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            <h1>Fallen Saints</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">Hem</a></li>
+                <li><a href="#about">Om oss</a></li>
+                <li><a href="#shop">Shoppa</a></li>
+                <li><a href="#contact">Kontakt</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-text">
+            <h2>Vägen till din inre rebell</h2>
+            <p>Klär dig för att sticka ut. Fallen Saints – för dem som vågar vara mer.</p>
+            <a href="#shop" class="btn">Utforska Kollektionen</a>
+        </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about">
+        <div class="about-container">
+            <h2>Om Fallen Saints</h2>
+            <p>Fallen Saints förenar modern streetwear med gotisk elegans. Vi skapar kläder för de som vågar stå ut och uttrycka sin sanna identitet. Våra plagg är designade för att vara både stiliga och funktionella, med en subtil touch av rebellisk mystik.</p>
+        </div>
+    </section>
+
+    <!-- Shop Section -->
+    <section id="shop">
+        <h2>Vår Kollektion</h2>
+        <div class="product-gallery">
+            <div class="product-item">
+                <img src="product1.jpg" alt="T-shirt Fallen Saints">
+                <p>T-shirt Fallen Saints</p>
+                <p>999 kr</p>
+                <a href="#">Köp nu</a>
+            </div>
+            <div class="product-item">
+                <img src="product2.jpg" alt="Hoodie Fallen Saints">
+                <p>Hoodie Fallen Saints</p>
+                <p>1299 kr</p>
+                <a href="#">Köp nu</a>
+            </div>
+            <!-- Lägg till fler produkter här -->
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="contact-container">
+            <h2>Kontakt</h2>
+            <p>Har du frågor? Tveka inte att kontakta oss!</p>
+            <form>
+                <input type="text" placeholder="Ditt namn">
+                <input type="email" placeholder="Din e-post">
+                <textarea placeholder="Ditt meddelande"></textarea>
+                <button type="submit">Skicka</button>
+            </form>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Fallen Saints. Alla rättigheter reserverade.</p>
+    </footer>
+
+</body>
+</html>
+
+
+
+
+
+
+
